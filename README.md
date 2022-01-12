@@ -135,7 +135,7 @@ E-commerce app for  selling  clothes.
 
 :star: Qadaha Ta3al (قدها تعال)
 
-App for football lovers to play, guess and won different challenges.
+App for football lovers to play, guess and win different challenges.
 
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.rmalcomsa.gadhaT3al" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
