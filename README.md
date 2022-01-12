@@ -69,10 +69,9 @@
 
 # Projects
 
- 
+ :star: Rest water
 
 <p>
-   <bold> Rest water </bold>
      <pre>   E-commerce app for a saudi arabian company called مياه رست specializes in selling water in Saudi Arabia</pre>  
 </p>
 
