@@ -42,6 +42,8 @@
 
  :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)
 
+​         :date: From 2019 - Now
+
  :small_orange_diamond: Flutter Developer [@jinniservices.com](https://jinniservices.com/)
 
 
