@@ -80,35 +80,35 @@ E-commerce app for a saudi arabian company called مياه رست specializes in
 
 ----
 
-:star: Rest water
+:star: Davina
 
-E-commerce app for a saudi arabian company called مياه رست specializes in selling water in Saudi Arabia 
+E-commerce app for a selling  clothes. 
 
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.rest_water.app&hl=ar&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
-   <a href="https://apps.apple.com/us/app/restwater-%D9%85%D9%8A%D8%A7%D9%87-%D8%B1%D8%B3%D8%AA/id1479332681" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
+ <a href="https://play.google.com/store/apps/details?id=com.alalmiyalhura.davina" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://apps.apple.com/us/app/davina/id1586822905" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
 
 ---
 
-:star: Rest water
+:star: Qadaha Ta3al (قدها تعال)
 
-E-commerce app for a saudi arabian company called مياه رست specializes in selling water in Saudi Arabia 
+App for football lovers to play, guess and won different challenges.
 
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.rest_water.app&hl=ar&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
-   <a href="https://apps.apple.com/us/app/restwater-%D9%85%D9%8A%D8%A7%D9%87-%D8%B1%D8%B3%D8%AA/id1479332681" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
+ <a href="https://play.google.com/store/apps/details?id=com.rmalcomsa.gadhaT3al" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://apps.apple.com/us/app/%D9%82%D9%80%D8%AF%D9%87%D8%A7-%D8%AA%D8%B9%D8%A7%D9%84/id1435960229" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
 
 ---
 
-:star: Rest water
+:star: Talqaha (تلقاها)
 
-E-commerce app for a saudi arabian company called مياه رست specializes in selling water in Saudi Arabia 
+E-commerce app for selling car parts. 
 
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.rest_water.app&hl=ar&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
-   <a href="https://apps.apple.com/us/app/restwater-%D9%85%D9%8A%D8%A7%D9%87-%D8%B1%D8%B3%D8%AA/id1479332681" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
+ <a href="https://play.google.com/store/apps/details?id=com.rmalsa.talgaha" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://apps.apple.com/us/app/%D8%AA%D9%84%D9%82%D8%A7%D9%87%D8%A7/id1530958197" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
 
 
