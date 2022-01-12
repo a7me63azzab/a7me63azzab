@@ -78,12 +78,19 @@ E-commerce app for a saudi arabian company called مياه رست specializes in
 
 :star: Dawafer (دوافير)
 
-A platform that connect freelancers with clients.
+A platform that connect clients with freelancers.
 
 <p>
 	App has 2 accounts :
   <ul>
     <li>Freelancer Account</li>
+       <ol>
+         <li>Select specefic category such as [Design, Writing, ..... etc]</li>  
+         <li>Recieve requests from clients</li>
+         <li>Send offers to the client</li>
+         <li>Waiting for the client to accept his offer</li>
+         <li>Start chat with the client</li>
+       </ol>
     <li>Client Account</li>
 </ul>
 </p>
