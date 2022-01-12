@@ -14,7 +14,7 @@
 
 # Experience
 
- :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)       **(Jun 2019 – Present )**      &nbsp; &nbsp; &nbsp; :point_right:  Full-time
+ :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)       **(May 2019 – Present )**      &nbsp; &nbsp; &nbsp; :point_right:  Full-time (Office)
 
 
 <ul>
@@ -33,7 +33,15 @@
 
 
 
- :small_orange_diamond: Flutter Developer [@jinniservices.com](https://jinniservices.com/)             &nbsp;**(Dec 2021 – Present )** &nbsp; :point_right: Part-time
+ :small_orange_diamond: Flutter Developer [@jinniservices.com](https://jinniservices.com/)             &nbsp;**(Dec 2021 – Present )** &nbsp; :point_right: Part-time (Remote)
+
+<ul>
+<li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
+<li>Integrating with RESTful and/or GraphQL APIs, and applying modern authorization.</li>
+<li>Testing the product in controlled, real situations before going live.</li>
+
+
+:small_orange_diamond: Flutter Developer [@alexforprog.com](https://alexforprog.com/)             &nbsp;**(Dec 2018 – April 2019 )** &nbsp; :point_right: Full-time (Remote)
 
 <ul>
 <li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
@@ -42,8 +50,12 @@
 
 
 
+:small_orange_diamond: Flutter Developer [@eltamiuz.com](https://eltamiuz.com/)             &nbsp;**(Jun 2019 – Jan 2020 )**&nbsp; :point_right: Part-time (Remote)
 
-
+<ul>
+<li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
+<li>Integrating with RESTful and/or GraphQL APIs, and applying modern authorization.</li>
+<li>Testing the product in controlled, real situations before going live.</li>
 
 
 
