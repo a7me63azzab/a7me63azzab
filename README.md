@@ -71,7 +71,7 @@
 
 ---
 
- :sparkles:<h1>RestWater App</h1>
+ :sparkles:<h3>RestWater App</h3>
 
 **E-commerce app for a saudi arabian company called مياه رست specializes in selling water in Saudi Arabia** 
 
