@@ -40,8 +40,6 @@
 
 # Experience
 
----
-
  Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)
 
 # Projects
