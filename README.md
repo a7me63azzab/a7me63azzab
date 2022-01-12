@@ -12,7 +12,7 @@
 
 
 
-```html
+<!--
 
 <p>
 <a href="https://github.com/a7me63azzab" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Github&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
@@ -23,9 +23,14 @@
 
 <a href="https://www.linkedin.com/in/a7me63azza8/" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
 
-<a href="http://Wa.me/201096149074" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
-</p>
-```
+<a href="http://Wa.me/201096149074" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a>   
+</p> -->
+
+
+
+
+
+
 
 
 
