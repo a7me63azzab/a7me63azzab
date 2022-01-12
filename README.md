@@ -69,8 +69,6 @@
 
 # Projects
 
----
-
  :sparkles:**RestWater App**
 
 **E-commerce app for a saudi arabian company called مياه رست specializes in selling water in Saudi Arabia** 
