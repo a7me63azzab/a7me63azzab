@@ -12,6 +12,10 @@
 
 :mortar_board: Faculty of computers and information system - Computer Science Department @ Mansoura University
 
+---
+
+
+
 # Experience
 
  :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)       **(Jun 2019 – Present )**      &nbsp; &nbsp; &nbsp; :point_right:  Full-time
@@ -39,13 +43,11 @@
 <li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
 <li>Integrating with RESTful and/or GraphQL APIs, and applying modern authorization.</li>
 <li>Testing the product in controlled, real situations before going live.</li>
+---
 
 
 
-
-
-
-# Experience
+# Projects
 
  :star: Rest water
 
@@ -91,7 +93,11 @@ E-commerce app for selling car parts.
 
 
 
-# Experience
+---
+
+
+
+# Language
 
 :us: English
 
