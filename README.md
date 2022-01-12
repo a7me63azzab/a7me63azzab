@@ -38,7 +38,8 @@
 <ul>
 <li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
 <li>Integrating with RESTful and/or GraphQL APIs, and applying modern authorization.</li>
-<li>Testing the product in controlled, real situations before going live.</li>
+  <li>Testing the product in controlled, real situations before going live.</li></ul>
+
 
 
 
@@ -48,7 +49,7 @@
 <ul>
 <li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
 <li>Integrating with RESTful and/or GraphQL APIs, and applying modern authorization.</li>
-<li>Testing the product in controlled, real situations before going live.</li>
+  <li>Testing the product in controlled, real situations before going live.</li></ul>
 
 
 
@@ -60,6 +61,7 @@
 <li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
 <li>Integrating with RESTful and/or GraphQL APIs, and applying modern authorization.</li>
 <li>Testing the product in controlled, real situations before going live.</li>
+</ul>
 
 
 
