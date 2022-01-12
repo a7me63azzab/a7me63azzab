@@ -40,7 +40,14 @@
 
 # Experience
 
- :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)          &nbsp;&nbsp;&nbsp;-  From 2019 - Now 
+ :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)          &nbsp;&nbsp;&nbsp;-  From 2019 - Now  
+
+<p id="date"></p>
+<script>
+  document.getElementById("date").innerHTML = Date();
+</script>
+
+</p>
 
  :small_orange_diamond: Flutter Developer [@jinniservices.com](https://jinniservices.com/)            &nbsp;&nbsp; -  From 12/2020 - Now 
 
