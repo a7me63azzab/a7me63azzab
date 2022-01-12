@@ -57,7 +57,7 @@
 <li>Suggest and organize team building activities.</li>
 </ul> 
 
-</p>
+
 
  :small_orange_diamond: Flutter Developer [@jinniservices.com](https://jinniservices.com/)             &nbsp;**(Dec 2021 – Present )** &nbsp; :point_right: Part-time
 
@@ -65,7 +65,7 @@
 <li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
 <li>Integrating with RESTful and/or GraphQL APIs, and applying modern authorization.</li>
 <li>Testing the product in controlled, real situations before going live.</li>
-</ul>
+
 
 # Projects
 
@@ -113,15 +113,7 @@ E-commerce app for selling car parts.
 
 
 
----
-
-
-
-
-
 # Language
-
----
 
 :us: English
 
