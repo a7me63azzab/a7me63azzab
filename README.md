@@ -40,7 +40,7 @@
 
 # Experience
 
- :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)          &nbsp;&nbsp;&nbsp;-  From 2019 - Now          &nbsp; &nbsp; &nbsp; :point_right:  Full-time
+ :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)          &nbsp;&nbspnbsp;**(Jun 2019 – Present )**;&          &nbsp; &nbsp; &nbsp; :point_right:  Full-time
 
 
 <ul>
@@ -59,9 +59,13 @@
 
 </p>
 
- :small_orange_diamond: Flutter Developer [@jinniservices.com](https://jinniservices.com/)            &nbsp; &nbsp; -  From 12/2020 - Now    &nbsp;  &nbsp; &nbsp; :point_right: Part-time
+ :small_orange_diamond: Flutter Developer [@jinniservices.com](https://jinniservices.com/)             &nbsp;**(Dec 2021 – Present )** &nbsp; :point_right: Part-time
 
-
+<ul>
+<li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
+<li>Integrating with RESTful and/or GraphQL APIs, and applying modern authorization.</li>
+<li>Testing the product in controlled, real situations before going live.</li>
+</ul>
 
 # Projects
 
