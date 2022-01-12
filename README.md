@@ -92,6 +92,13 @@ A platform that connect clients with freelancers.
          <li>Start chat with the client</li>
        </ol>
     <li>Client Account</li>
+       <ol>
+         <li>Create new request for a specific service such as [Design, Writing, ... etc]</li>  
+         <li>Recieve offers from freelancers</li>
+         <li>Accept a specific freelancer offer</li>
+         <li>Pay the fees via tap payment sdk</li>
+         <li>Start chat with the freelancer</li>
+       </ol>
 </ul>
 </p>
 
