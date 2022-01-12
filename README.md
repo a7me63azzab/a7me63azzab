@@ -42,6 +42,22 @@
 
  :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)          &nbsp;&nbsp;&nbsp;-  From 2019 - Now          &nbsp; &nbsp; &nbsp; :point_right:  Full-time
 
+<ul>
+  <li>Create an inspiring team environment with an open communication culture</li>
+<li>Set clear team goals</li>
+<li>Delegate tasks and set deadlines</li>
+<li>Oversee day-to-day operation</li>
+<li>Monitor team performance and report on metrics</li>
+<li>Motivate team members</li>
+<li>Discover training needs and provide coaching</li>
+<li>Listen to team members’ feedback and resolve any issues or conflicts</li>
+<li>Recognize high performance and reward accomplishments</li>
+<li>Encourage creativity and risk-taking</li>
+<li>Suggest and organize team building activities</li>
+</ul> 
+
+</p>
+
  :small_orange_diamond: Flutter Developer [@jinniservices.com](https://jinniservices.com/)            &nbsp; &nbsp; -  From 12/2020 - Now    &nbsp;  &nbsp; &nbsp; :point_right: Part-time
 
 
