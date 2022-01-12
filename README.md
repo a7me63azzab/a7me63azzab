@@ -42,7 +42,7 @@
 
  :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)          &nbsp;&nbsp;&nbsp;-  From 2019 - Now          &nbsp; &nbsp; &nbsp; :point_right:  Full-time
 
-<h2>As a team leader i :</h2>
+
 <ul>
   <li>Create an inspiring team environment with an open communication culture.</li>
 <li>Set clear team goals.</li>
