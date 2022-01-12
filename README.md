@@ -40,7 +40,7 @@
 
 # Experience
 
- :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)          &nbsp;&nbspnbsp;**(Jun 2019 – Present )**;&          &nbsp; &nbsp; &nbsp; :point_right:  Full-time
+ :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)       **(Jun 2019 – Present )**      &nbsp; &nbsp; &nbsp; :point_right:  Full-time
 
 
 <ul>
