@@ -124,7 +124,7 @@ The health care card is an awareness service card that grants its holder medical
 
 :star: Davina
 
-E-commerce app for a selling  clothes. 
+E-commerce app for  selling  clothes. 
 
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.alalmiyalhura.davina" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
