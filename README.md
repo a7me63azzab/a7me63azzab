@@ -74,8 +74,8 @@
 E-commerce app for a saudi arabian company called مياه رست specializes in selling water in Saudi Arabia 
 
 <p>
- <a href="https://www.facebook.com/a7me6.azza8" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
-   <a href="https://www.facebook.com/a7me6.azza8" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
+ <a href="https://play.google.com/store/apps/details?id=com.rest_water.app&hl=ar&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://apps.apple.com/us/app/restwater-%D9%85%D9%8A%D8%A7%D9%87-%D8%B1%D8%B3%D8%AA/id1479332681" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
 
 
