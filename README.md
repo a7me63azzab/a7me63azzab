@@ -8,32 +8,6 @@
   <a href="https://twitter.com/_a7me63azzab" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Twitter-0077b5.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a> 
   </p>
 
-
-
-<!--
-
-<p>
-<a href="https://github.com/a7me63azzab" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Github&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
-
-<a href="https://www.facebook.com/a7me6.azza8/" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
-
-<a href="https://twitter.com/_a7me63azzab" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
-
-<a href="https://www.linkedin.com/in/a7me63azza8/" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
-
-<a href="http://Wa.me/201096149074" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a>   
-</p> -->
-
-
-
-
-
-
-
-
-
-
-
 # Education
 
 :mortar_board: Faculty of computers and information system - Computer Science Department @ Mansoura University
@@ -65,8 +39,6 @@
 <li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
 <li>Integrating with RESTful and/or GraphQL APIs, and applying modern authorization.</li>
 <li>Testing the product in controlled, real situations before going live.</li>
-
-
 # Projects
 
  :star: Rest water
@@ -113,12 +85,6 @@ E-commerce app for selling car parts.
 
 
 
----
-
-
-
-
-
 # Language
 
 :us: English
@@ -138,6 +104,29 @@ E-commerce app for selling car parts.
 
 
 
+
+
+
+
+
+
+
+
+
+<!--
+
+<p>
+<a href="https://github.com/a7me63azzab" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Github&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
+
+
+<a href="https://www.facebook.com/a7me6.azza8/" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
+
+<a href="https://twitter.com/_a7me63azzab" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
+
+<a href="https://www.linkedin.com/in/a7me63azza8/" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a> 
+
+<a href="http://Wa.me/201096149074" target="_blank"><img alt="Google Play" src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" /></a>   
+</p> -->
 
 <!--
 **a7me63azzab/a7me63azzab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
