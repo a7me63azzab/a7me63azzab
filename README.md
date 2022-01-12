@@ -41,12 +41,16 @@
 <li>Testing the product in controlled, real situations before going live.</li>
 
 
+
+
 :small_orange_diamond: Flutter Developer [@alexforprog.com](https://alexforprog.com/)             &nbsp;**(Dec 2018 – April 2019 )** &nbsp; :point_right: Full-time (Remote)
 
 <ul>
 <li>Design and develop custom controls for Android, Windows, and iOS application versions.</li>
 <li>Integrating with RESTful and/or GraphQL APIs, and applying modern authorization.</li>
 <li>Testing the product in controlled, real situations before going live.</li>
+
+
 
 
 
