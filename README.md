@@ -40,9 +40,9 @@
 
 # Experience
 
-:large_blue_circle: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)
+ :small_orange_diamond: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)
 
-:large_blue_circle: Flutter developer [@jinniservices.com](https://jinniservices.com/)
+ :small_orange_diamond: Flutter Developer [@jinniservices.com](https://jinniservices.com/)
 
 
 
