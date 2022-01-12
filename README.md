@@ -1,7 +1,5 @@
 # :wave: Ahmed Abd Elmenem Azzab 
 
-:computer: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)
-
 <p>
  <a href="https://www.facebook.com/a7me6.azza8" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="http://Wa.me/201096149074" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
@@ -43,6 +41,8 @@
 # Experience
 
 ---
+
+ Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)
 
 # Projects
 
