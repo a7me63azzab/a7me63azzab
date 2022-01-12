@@ -40,7 +40,11 @@
 
 # Experience
 
- Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)
+:large_blue_circle: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)
+
+:large_blue_circle: Flutter developer [@jinniservices.com](https://jinniservices.com/)
+
+
 
 # Projects
 
