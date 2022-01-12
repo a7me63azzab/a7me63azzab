@@ -45,7 +45,7 @@
 
 
 
-# Projects
+# Experience
 
  :star: Rest water
 
@@ -91,13 +91,7 @@ E-commerce app for selling car parts.
 
 
 
-
-
-
-
-
-
-# Language
+# Experience
 
 :us: English
 
