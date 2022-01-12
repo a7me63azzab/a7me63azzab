@@ -1,9 +1,5 @@
 # :wave: Ahmed Abd Elmenem Azzab 
 
----
-
-
-
 :computer: Flutter TeamLead  [@alalmiyalhura.com](https://alalmiyalhura.com/)
 
 <p>
@@ -13,22 +9,6 @@
   <a href="mailto:devahmedazzab2014@gmail.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://twitter.com/_a7me63azzab" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Twitter-0077b5.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a> 
   </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
