@@ -111,6 +111,17 @@ A platform that connect clients with freelancers.
 
 ---
 
+:star: The health care (الرعايه الصحيه)
+
+The health care card is an awareness service card that grants its holder medical, treatment, health, surgical, cosmetic and sports discounts of up to 80% in more than 1,800 hospitals, health and dental centers, pharmacies, sports clubs and others in more than ten thousand branches inside and outside  Saudi Arabia.
+
+<p>
+ <a href="https://play.google.com/store/apps/details?id=co.itplus.co" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://apps.apple.com/sa/app/id941346493" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
+</p>
+
+---
+
 :star: Davina
 
 E-commerce app for a selling  clothes. 
