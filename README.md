@@ -38,17 +38,11 @@
 
 # Education
 
-----
-
 :mortar_board: Faculty of computers and information system - Computer Science Department @ Mansoura University
 
 # Experience
 
 ---
-
-
-
-
 
 # Projects
 
@@ -57,10 +51,6 @@
 :one: RestWater 
 
 Desc ...
-
-
-
-
 
 # Language
 
