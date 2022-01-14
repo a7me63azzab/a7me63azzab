@@ -150,9 +150,8 @@ E-commerce app for selling car parts.
 
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.rmalsa.talgaha" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on google play-4267B2.svg?style=for-the-badge&logo=android&logoColor=white" /></a>
-   <a href="https://apps.apple.com/us/app/%D8%AA%D9%84%D9%82%D8%A7%D9%87%D8%A7/id1530958197" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
+ <a href="https://apps.apple.com/us/app/%D8%AA%D9%84%D9%82%D8%A7%D9%87%D8%A7/id1530958197" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get it on play store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
-----
 
 
 
