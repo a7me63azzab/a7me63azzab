@@ -181,7 +181,18 @@ Arwena application is one of the leading applications in the field of water deli
 
 
 
-# Skils
+# Skils & Tools
+
+<ul>
+  <li>Flutter_Bloc</li>
+  <li>Provider</li>
+  <li>Redux</li>
+  <li>Getx</li>
+  <li>Get_it</li>
+  <li>Firebase</li>
+  <li>Sqflite</li>
+  <li>Animation</li>
+</ul>
 
 
 
