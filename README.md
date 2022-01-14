@@ -181,17 +181,13 @@ Arwena application is one of the leading applications in the field of water deli
 
 
 
-# Skills & Tools
+# Technical Skills
 
 <ul>
-  <li>Flutter_Bloc</li>
-  <li>Provider</li>
-  <li>Redux</li>
-  <li>Getx</li>
-  <li>Get_it</li>
-  <li>Firebase</li>
-  <li>Sqflite</li>
-  <li>Animation</li>
+  <li> <b>Languages:</b>   Dart, Java script.</li>
+  <li> <b>Frameworks & Tools:</b> Flutter, XCode, Android Studio, MySQL workbench, Postman.</li>
+  <li> <b>Packages:</b> Flutter_bloc, Redux, Getx, get_it, Provider, Sqflite, Firebase_messaging, Google_maps, Dio. </li>
+  <li> <b>Other:</b> Firebase, Git/GitHub, Fvm (Flutter version manager), Platform_channels, Streams.</li>
 </ul>
 
 
