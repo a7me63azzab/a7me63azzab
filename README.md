@@ -181,7 +181,7 @@ Arwena application is one of the leading applications in the field of water deli
 
 
 
-# Skils & Tools
+# Skills & Tools
 
 <ul>
   <li>Flutter_Bloc</li>
